@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(234, 243, 211);
+}
+#bod1{
+    margin: 50px 50px 50px 50px;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+header{
+    position: absolute;
+    width: 100%;
+    background-color: rgb(47, 122, 51);
+    text-align: center;
+    top: 0%;
+    left: 0%;
+    color:rgb(234, 243, 211); 
+    
+}
+
+table{
+    width: 100%;
+    font-size: 30px;
+}
+
+.box_1{
+    background-color: rgb(55, 129, 58);
+    font-size: 30px;
+    color: rgb(234, 243, 211);
+    padding: 14px;
+    text-align: left;
+    float: left;
+    font-weight: 500;
+}
+
+.box_2{
+    background-color: rgb(55, 129, 58);
+    font-size: 30px;
+    color: rgb(234, 243, 211);
+    padding: 13px;
+    text-align: right;
+    float: right;
+    font-weight: 500;
+    margin-top: 100px;
+}
+.box_3{
+    margin-top: 100px;
+    background-color: rgb(55, 129, 58);
+    font-size: 30px;
+    color: rgb(234, 243, 211);
+    padding: 15px;
+    text-align: left;
+    float: left;
+    font-weight: 500;
+}
+.img1{
+    margin-top: 100px;
+}
+
+h2{
+    text-align: center;
+    padding: 0px;
+}
+.box_4{
+    background-color: rgb(55, 129, 58);
+    font-size: 30px;
+    color: rgb(234, 243, 211);
+    padding: 15px;
+    text-align: center;
+    font-weight: 500;   
+}
+footer{
+    width: 100%;
+    background-color: rgb(47, 122, 51);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin-top: 160px;
+    border: solid black;
+    border-radius: 20px;
+    bottom: 0%;
+    margin-bottom: 20px;
+    
+}
+.foot2{
+    width: 100%;
+    background-color: rgb(47, 122, 51);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    position: fixed;
+    bottom: 0%;
+    left: 0%;
+    height: 20px;
+}
+
+.form1{
+    font-size: 40px;
+    color: black;
+    border: solid black;
+    margin: 150px 300px 200px 300px;
+    padding: 0%;
+    /*background image*/
+}
+
+.tittle{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+.side1{
+    text-align: center;
+}
+.side2{
+    text-align: center;
+}
+.button{
+    text-align: right;
+}
+textarea{
+    max-width: 200px;
+    max-height: 60px;    
+}
+label{
+    display: block;
+    margin-top: 10px;
+}
